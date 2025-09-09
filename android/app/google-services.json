@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "532941862311",
+    "project_id": "patient-history-57db6",
+    "storage_bucket": "patient-history-57db6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:532941862311:android:00ae10c66e1ed7b0c8b282",
+        "android_client_info": {
+          "package_name": "com.example.patient_history_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX2NgS5PQWkI9TfGTwqvcRF43tMqqPlpg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
